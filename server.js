@@ -24,7 +24,7 @@ webpush.setVapidDetails(
 
 // ✅ MySQL config
 const dbConfig = {
-  host: "srv1410.hstgr.io",
+  host: "srv1868.hstgr.io",
   user: "u484295633_btao",
   password: "Btao_072924",
   database: "u484295633_btao",
